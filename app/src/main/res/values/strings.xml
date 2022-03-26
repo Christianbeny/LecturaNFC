@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lectura NFC</string>
+    <string name="contenido" >Contenido Leido:</string>
+</resources>
